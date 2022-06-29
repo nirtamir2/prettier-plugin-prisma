@@ -28,11 +28,11 @@
     "@prisma/prisma-fmt-wasm": "3.14.0-36.2b0c12756921c891fec4f68d9444e18c7d5d4a6a"
   },
   "devDependencies": {
-    "@types/jest": "27.5.0",
+    "@types/jest": "27.5.2",
     "@types/prettier": "2.6.0",
     "@umidbekk/configs": "0.2.0",
     "husky": "8.0.1",
-    "jest": "28.1.0",
+    "jest": "28.1.2",
     "lint-staged": "12.4.1",
     "np": "7.6.1",
     "prettier": "2.6.2",
